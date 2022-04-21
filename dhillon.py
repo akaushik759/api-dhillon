@@ -105,7 +105,7 @@ dhillon_json = [
         "title": "Excuses",
         "singer": ["AP Dhillon", "Gurinder Gill"],
         "lyricist": ["AP Dhillon", "Gurinder Gill"],
-        "video_link": "https://www.youtube.com/watch?v=Mx0stnwUPIM"
+        "video_link": "https://www.youtube.com/watch?v=vX2cDW8LUWk"
     },
     {
         "title": "Arrogant",
